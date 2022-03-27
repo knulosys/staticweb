@@ -8,7 +8,7 @@
   font-size: 20px;}
 
 body{
-  background-color: #bdc3c7;
+  background-color: #000000;
 }
 /* .############################################################################################. */
 
@@ -47,7 +47,7 @@ body{
 
 .quote{
   font-size: 55px;
-  color: #ffcc5f;
+  color: #505354;
   text-align: center;
   padding-top: 15vh;
   margin-left: auto;
@@ -95,6 +95,6 @@ body{
 }
 
 .button1:hover{
-  background-color: #704b38;
+  background-color: #505354;
   color: white;
 }
