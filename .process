@@ -1,0 +1,11 @@
+Set up the following:
+    -Main.tf
+    -Installation Script
+    -IAM role
+    -Jenkinsfile
+    -Provistion main.tf file with Terraform. Wait 20mins
+    -Using S3-bucket for static webhosting- set it up fro, AWS Comsole
+    -SSH into EC2 from main.tf where jenkins/kops/kubectl/ansible/awscli/docker etc
+        Set up K8s cluster using KOPS command
+kops command:
+    1.
